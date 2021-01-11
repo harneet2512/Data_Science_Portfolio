@@ -26,7 +26,3 @@ Another categorization of machine learning tasks arises when one considers the d
 
 
 
-<p align="center">
-  <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-  
-</p>
